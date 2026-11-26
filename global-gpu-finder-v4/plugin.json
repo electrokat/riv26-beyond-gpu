@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "global-gpu-finder",
+  "displayName": "Global GPU Finder (Latitude.sh + AWS)",
+  "version": "1.3.0",
+  "description": "Size your AI workload first, then find and deploy GPUs on Latitude.sh or Amazon EC2. A guided questionnaire based on the Beyond the GPU count framework works out memory, serving pattern and cost per token, and may point you to Amazon Bedrock, CPU or the right GPU class. Once you pick an option and a provider, you sign in to that provider only, see live stock and price, and launch with a confirmed plan.",
+  "author": {
+    "name": "Latitude.sh"
+  },
+  "homepage": "https://www.latitude.sh/accelerate",
+  "keywords": [
+    "gpu capacity",
+    "find gpu",
+    "which gpu",
+    "gpu sizing",
+    "deploy gpu",
+    "b300",
+    "rtx pro 6000",
+    "latitude gpu",
+    "ec2 gpu"
+  ]
+}
